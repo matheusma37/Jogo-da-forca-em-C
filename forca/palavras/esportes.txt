@@ -1,0 +1,6 @@
+futebol
+vôlei
+natação
+basquete
+atletismo
+ginástica
